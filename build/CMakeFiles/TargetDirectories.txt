@@ -1,0 +1,3 @@
+/home/aura/Documents/lock/build/CMakeFiles/lockbox.dir
+/home/aura/Documents/lock/build/CMakeFiles/edit_cache.dir
+/home/aura/Documents/lock/build/CMakeFiles/rebuild_cache.dir

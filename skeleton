@@ -1,0 +1,31 @@
+STARTER :
+lockbox/
+├── CMakeLists.txt
+├── src/
+│   ├── main.cpp
+│   ├── encryptor.cpp
+│   ├── encryptor.h
+│   ├── utils.cpp
+│   ├── utils.h
+│   └── obfuscator.cpp   (to be implemented later)
+│   └── obfuscator.h
+
+FULL:
+/ (repo root)
+├─ CMakeLists.txt
+├─ src/
+│  ├─ main.cpp
+│  ├─ encryptor.cpp/h
+│  ├─ obfuscator.cpp/h
+│  ├─ imgutils.cpp/h
+│  └─ platform/
+│     ├─ pwd_unix.cpp
+│     └─ pwd_win.cpp
+├─ scripts/
+│  ├─ setup.sh
+│  ├─ setup.bat
+│  └─ lockbox.sh
+├─ docs/
+│  ├─ INSTALL.md
+│  └─ USAGE.md
+└─ tests/
